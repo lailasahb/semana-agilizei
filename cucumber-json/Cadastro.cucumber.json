@@ -23,7 +23,7 @@
             "name": "que acesso o site",
             "result": {
               "status": "passed",
-              "duration": 13368000000
+              "duration": 9955000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "informar meus dados",
             "result": {
               "status": "undefined",
-              "duration": 462000000
+              "duration": 268000000
             }
           },
           {

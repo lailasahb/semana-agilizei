@@ -23,7 +23,7 @@
             "name": "que acesso o site",
             "result": {
               "status": "passed",
-              "duration": 13368000000
+              "duration": 9955000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "informar meus dados",
             "result": {
               "status": "undefined",
-              "duration": 462000000
+              "duration": 268000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "que o site não possui registros",
             "result": {
               "status": "undefined",
-              "duration": 14502000000
+              "duration": 10934000000
             }
           },
           {
@@ -119,7 +119,8 @@
             "line": 14,
             "name": "possua apenas um registro",
             "result": {
-              "status": "undefined"
+              "status": "undefined",
+              "duration": 1000000
             }
           },
           {
