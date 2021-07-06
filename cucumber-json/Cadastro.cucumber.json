@@ -1,0 +1,61 @@
+[
+  {
+    "description": "Como usuário, desejo realizar um cadastro\nPara que possa acessar o sistema",
+    "keyword": "Funcionalidade",
+    "name": "Cadastro",
+    "line": 2,
+    "id": "cadastro",
+    "tags": [],
+    "uri": "Cadastro.feature",
+    "elements": [
+      {
+        "id": "cadastro;cadastro-de-novo-usuário",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Cadastro de Novo Usuário",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 8,
+            "name": "que acesso o site",
+            "result": {
+              "status": "passed",
+              "duration": 13368000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 9,
+            "name": "informar meus dados",
+            "result": {
+              "status": "undefined",
+              "duration": 462000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 10,
+            "name": "salvar",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 11,
+            "name": "devo ser cadastrado com sucesso",
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
