@@ -1,0 +1,10 @@
+{
+   "$schema": "https://on.cypress.io/cypress.schema.json",
+   "baseUrl": "http://demo.automationtesting.in",
+   "watchForFileChanges": false,
+   "testFiles": "**/*.*spec.*",
+   "reporter": "cypress-multi-reporters",
+   "reporterOptions": {
+     "configFile": "reporter-config.json"
+   }
+ }
